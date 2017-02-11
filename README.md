@@ -1,4 +1,4 @@
-# broccoli-browser-sync
+# broccoli-browser-sync - DEPRECATED - go to [Globegitter/broccoli-browser-sync](https://github.com/Globegitter/broccoli-browser-sync)
 BrowserSync support for Broccolijs
 
 ## Usage
